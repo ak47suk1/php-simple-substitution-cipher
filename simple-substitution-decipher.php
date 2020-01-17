@@ -18,9 +18,10 @@ function decrypt($string){
   }
 
 // Example of usage:
-
+// Encrypt:
 echo encrypt("\n buy mercedes first \n");
 echo encrypt("\n beliau \n");
+// Decrypt:
 echo decrypt("\n kn1 xzmfzwzs ocmsy \n");
 echo decrypt("\n kzecrn \n");
 
