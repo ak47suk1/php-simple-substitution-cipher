@@ -9,3 +9,8 @@
 
 ## TODO when I have free time:
 * add codemap/key generator. Give user option for this.
+
+## References
+* https://guides.codepath.com/websecurity/Simple-Ciphers
+* https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/polyalphabetic-cipher
+* https://en.wikipedia.org/wiki/Substitution_cipher
